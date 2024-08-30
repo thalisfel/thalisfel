@@ -1,12 +1,17 @@
-- 👋 Hi, I’m @thalisfel
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- **Oiii! Eu me chamo Thalis**
+- Tenho 20 anos e estou estudando Informatica para internet.
+- Pretendo me tornar um bom programador, me identifico com area de front-end, mas almejo ser full stack.
 
-<!---
-thalisfel/thalisfel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+###### <h6>
+_Tecnologias Que Conheço_  
+* Blockchain
+* Drones. 
+* Impressão 3D. 
+* Inteligência artificial. 
+* Internet das Coisas. 
+* Realidade aumentada. 
+* Realidade virtual. 
+* Robótica. 
+###### <h6>
