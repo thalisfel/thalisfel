@@ -6,11 +6,8 @@
 
 ###### <h6>
 _Tecnologias Que Conheço_  
-* Blockchain
-* Drones. 
 * Impressão 3D. 
 * Inteligência artificial. 
-* Internet das Coisas. 
 * Realidade aumentada. 
 * Realidade virtual. 
 * Robótica. 
