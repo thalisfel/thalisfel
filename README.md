@@ -12,11 +12,5 @@
 
 ##
 
-_Tecnologias Que Conheço_  
-* Impressão 3D. 
-* Inteligência artificial. 
-* Realidade aumentada. 
-* Realidade virtual. 
-* Robótica. 
 
 <img align="right" alt="" height="180" width="240" src="https://cdn.discordapp.com/attachments/1129969479212875776/1279431781401231400/5eeea355389655.59822ff824b72.gif?ex=66d46b33&is=66d319b3&hm=d3b2fba9776e59c024919fcb831243a35bc600b0aa98b357687dfbb344f3b4a4&">
